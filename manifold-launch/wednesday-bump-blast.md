@@ -2,7 +2,7 @@
 
 Staged 12 Aug 2026. Drop the two links in, then send.
 Hero post: Aravind's LinkedIn (https://www.linkedin.com/in/sk-ara/) + X (https://x.com/skara_io)
-Early access: bifrost.ai/#contact
+Early access: bifrost.ai
 
 - `[LINKEDIN LINK]` = direct URL to Aravind's live LinkedIn hero post
 - `[X LINK]` = direct URL to the live X post
@@ -22,7 +22,7 @@ Here are the direct links. A like, repost, or quote-repost would mean a lot:
 LinkedIn: [LINKEDIN LINK]
 X: [X LINK]
 
-Early access: bifrost.ai/#contact
+Early access: bifrost.ai
 
 Thank you!
 Charles
@@ -42,7 +42,7 @@ hero post is up if you're keen to reshare (means a lot 🙏):
 LinkedIn: [LINKEDIN LINK]
 X: [X LINK]
 
-early access: bifrost.ai/#contact
+early access: bifrost.ai
 
 ---
 
@@ -67,4 +67,4 @@ post's here if you feel like resharing 🙏
 LinkedIn: [LINKEDIN LINK]
 X: [X LINK]
 
-bifrost.ai/#contact
+bifrost.ai
